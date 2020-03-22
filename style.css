@@ -1,0 +1,64 @@
+		html{color: blue 
+		}
+		h1{
+			color: purple;
+			padding:10px 10px 0px 70px;
+			border:7px solid purple;
+
+		}
+		.h33{
+            color: black;
+		}
+		h2{
+			padding:10px 10px 50px 70px;
+			border-bottom: 1px solid black;
+		}
+		div{
+			height: 100%;
+			width : 80% ;
+			color: red;
+			border-radius: 10px;
+			margin: auto;
+			padding:10px 10px 10px 10px;
+			font-weight: bold;
+			border:1px solid pink;
+		    background:pink;
+
+		}
+		 p{
+				color: purple;
+				margin: 5px 50px 10px 50px;	
+			}
+			.p2{
+				color: red;
+				font-size: 20px;
+			}
+			.p3{
+				color: black;
+				font-size: 20px;
+			}
+		img{
+			padding:10px 10px 10px 50px;
+			margin: 5px 50px 10px 50px;
+			border-radius: 30px;
+			width: 30%;
+			border:1px solid purple;
+			padding: 10px 10px 10px 10px;
+			display: inline;
+		}
+		.imge2{
+         border:1px solid red;
+		}
+		.imge3{
+			border:1px solid black;
+		}
+		body{
+			border:1px solid purple;
+			border-radius: 10px;
+			width: 100%;
+			font-family: 'Lobster', cursive;
+		}
+		p{
+
+
+		}
